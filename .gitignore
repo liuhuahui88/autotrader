@@ -1,4 +1,7 @@
 *.iml
 .idea
 
-autotrader/target
+.RData
+.Rhistory
+
+autotrader/target/
